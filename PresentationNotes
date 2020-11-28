@@ -1,0 +1,34 @@
+this is gallery organizer
+my name is muhammad abubakar
+my fyp partner is saad bin tanveer
+our supervisor is ms. saneeha aamir
+
+gallery organizer is an image gallery system which can automatically organize images into categories based on the objects in the images,
+currently 80 objects can be detected. from them we have made 12 categories which can be seen here. 
+user will have to upload the image and then images will be automatically categorized.
+user can then manage these images such as update, delete, download and share.
+user can also edit these images in the photoeditor,
+user can also create slideshow video clips from images. 
+
+now, let's go through the project,
+to use this system, user must be logged in, each user will have their own registered account.
+user can register with their emails.
+once an account has been created, user can log into the system and use the system.
+firstly the user will have to upload images, so i will now upload some images,
+these images will be in their different categories,
+
+user can sort images,
+
+user can search any images,
+
+user can view images separately,
+user can then update, download, share and delete an image.
+(demonstrate)
+
+user can also edit an image,
+user can also create a video clip.
+
+user can change their account information.
+
+logout
+forget password
